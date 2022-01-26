@@ -1,7 +1,7 @@
 # roadmap
 ## Overview
 
-Welcome to the [official Exein product roadmap](https://github.com/orgs/Exein-io/projects/9)!
+:rocket: Welcome to the [official Exein product roadmap](https://github.com/orgs/Exein-io/projects/9)!
 
 The roadmap repository is for communicating Exein’s roadmap. Existing issues are currently read-only, and we will keep the roadmap private for the time being. We might open source our roadmap in the future if we see potential to engage more users in discussions about the future of Exein products and features. If you have feedback about this roadmap repository, such as how the issues are presented, use the [roadmap discussions](https://github.com/Exein-io/roadmap/discussions) to share them with the team.
 
